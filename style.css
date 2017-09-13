@@ -1,0 +1,29 @@
+#sidebar span, #sidebar a {
+	font-size: 20px !important;
+}
+
+#sidebar li{
+	min-height: 27px !important;
+}
+
+span.codehint-item {
+    font-size: 20px !important;
+}
+
+.function-hint-content {
+    font-size: 18px !important;
+}
+
+.dropdown-menu span{
+    font-family: "Microsoft YaHei UI" !important;
+    font-size: 20px !important;
+}
+
+div#outline-header {
+	font-size: 20px !important;
+}
+
+li.outline-entry {
+	font-size: 18px !important;
+	line-height: 22px !important;
+}

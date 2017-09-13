@@ -1,0 +1,12 @@
+{
+    "name": "noanylove.brackets-custom-font",
+    "title": "Brackets Custom Font",
+    "description": "Customize the UI font size in case it's too small",
+    "homepage": "https://github.com/NoAnyLove/brackets-custom-font",
+    "version": "0.0.1",
+    "author": "NoAnyLove <noanylove@gmail.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
